@@ -1,0 +1,7 @@
+1. Accuracy using Gaussian is 85.46650717703349
+
+2. Accuracy using Multivariate Distribution is 86.60287081339713
+
+3. Accuracy using Multinomial Distribution is 98.74401913875597
+
+So using Multinomial Model gives much better accuracy
